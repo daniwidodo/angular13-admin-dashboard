@@ -1,0 +1,20 @@
+#sidebar{
+    min-height: calc(100vh);
+}
+
+#navigation-top{
+    height: 20vh;
+    
+}
+
+.nav-link{
+    color: white;
+   }
+
+.nav-link:hover{
+ color: blue;
+ transition: all .5s ease-in;
+ background: lightskyblue ;
+ 
+ 
+}
